@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # med-assistant-chatbot
 =======
 # 🏥 Medical Assistant Chatbot
